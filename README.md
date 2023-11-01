@@ -2,3 +2,20 @@
 
 - i18n studio - 一款由 GPT4 驱动的用于多语言管理和本地化翻译的开发者工具 - https://www.i18n.studio/
 - Automa - 自动化浏览器任务 https://www.automa.site/
+- Paste：剪切板历史，可以查看剪切板历史，批量复制粘贴，历史搜索
+- Manico：快捷键，给应用设置快捷键，快速切换应用
+- Magnet：快捷调整窗口大小（三分之一、二分之一、四分之一、全屏）
+- 1password：管理密码，释放大脑内存，自动生成密码，每个密码不重样，跨平台
+- ClashX：梯子客户端（需自行购买代理服务器），人生苦短，我用 Google
+- Mos：Mac 上使用第三方鼠标滚动不流畅，这软件解决问题
+- Alfred（高级功能付费）：Mac 必备神器，解决工作流问题，比如显示隐藏文件夹、输入颜色查色值、搜索文档、搜 ip，只有你想不到没有做不到
+- Bartender：隐藏状态栏图标，屏幕小，状态栏太多图标时可以装这个软件隐藏起来，只显示有用的图标，比如微信、qq、钉钉等
+- IINA：开源全能视频播放器
+- The Unarchiver：Mac 解压缩工具
+- Xnip：强大的截图工具
+- utools：Spotlight + 小程序，丰富的小程序应用
+- AppCleaner：小巧的应用卸载工具
+- Downie：网页视频下载神器，按最高清画面下载视频
+- betterdisplay: 让你的 2k 显示器显示 hidpi
+- MonitorControl：便捷控制扩展显示器的亮度、音量。（betterdisplay 已集成它的功能）
+- Aerial：Apple TV 高清航拍屏保
