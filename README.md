@@ -19,3 +19,4 @@
 - betterdisplay: 让你的 2k 显示器显示 hidpi
 - MonitorControl：便捷控制扩展显示器的亮度、音量。（betterdisplay 已集成它的功能）
 - Aerial：Apple TV 高清航拍屏保
+- YPlayer：一款可以本地实时生成字幕的视频播放器
