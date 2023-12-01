@@ -20,3 +20,8 @@
 - MonitorControl：便捷控制扩展显示器的亮度、音量。（betterdisplay 已集成它的功能）
 - Aerial：Apple TV 高清航拍屏保
 - YPlayer：一款可以本地实时生成字幕的视频播放器
+
+## Node.js 相关
+
+- npkill - 删除 node_modules
+- Knip - 在项目中查找未使用的文件、依赖项和导出项，并帮助你 “knip” 掉它们。
