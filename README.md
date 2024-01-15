@@ -25,3 +25,11 @@
 
 - npkill - 删除 node_modules
 - Knip - 在项目中查找未使用的文件、依赖项和导出项，并帮助你 “knip” 掉它们。
+
+## 开发相关
+
+- Dash：技术文档搜索神器，配合 Alfred，快速查询各大技术文档 api，再也不用耗时去 Google
+- SwitchHosts：便捷设置系统 Host
+- SnippetsLab：代码片段管理，相比笔记应用，它更轻便快捷
+- iTerm：比自带终端好用很多，配合 oh my zsh，可以定制主题、输入补全、git 别名等，通过插件可以扩展你的终端能力
+- Visual Studio Code：人类最强开发编辑器，多语言支持，丰富插件生态，除了开发，还能写文章、炒股、看小说
