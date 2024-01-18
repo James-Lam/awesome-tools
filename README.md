@@ -1,5 +1,7 @@
 # awesome-tools
 
+## Mac 软件
+
 - i18n studio - 一款由 GPT4 驱动的用于多语言管理和本地化翻译的开发者工具 - https://www.i18n.studio/
 - Automa - 自动化浏览器任务 https://www.automa.site/
 - Paste：剪切板历史，可以查看剪切板历史，批量复制粘贴，历史搜索
@@ -33,3 +35,7 @@
 - SnippetsLab：代码片段管理，相比笔记应用，它更轻便快捷
 - iTerm：比自带终端好用很多，配合 oh my zsh，可以定制主题、输入补全、git 别名等，通过插件可以扩展你的终端能力
 - Visual Studio Code：人类最强开发编辑器，多语言支持，丰富插件生态，除了开发，还能写文章、炒股、看小说
+
+## 前端开发
+
+- pagespy：像使用谷歌浏览器的控制台一样简单地开始远程调试，也可理解为支持远程 debug 的 vconsole。
