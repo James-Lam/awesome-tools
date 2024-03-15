@@ -39,3 +39,13 @@
 ## 前端开发
 
 - pagespy：像使用谷歌浏览器的控制台一样简单地开始远程调试，也可理解为支持远程 debug 的 vconsole。
+- plasmo：开发浏览器插件的框架
+
+## 编辑器
+
+- https://lexical.dev/ - 开源文本编辑器
+- https://www.tiny.cloud/ - 文本编辑器
+- https://milkdown.dev/ - 文本编辑器框架
+- https://quilljs.com/ - 文本编辑器
+- https://github.com/ianstormtaylor/slate - 开源文本编辑器
+- https://github.com/bytedance/bytemd - 字节开源的 markdown 编辑器
