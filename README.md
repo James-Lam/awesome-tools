@@ -58,3 +58,7 @@ todo...
 ## VS Code 插件
 
 todo...
+
+## AI 相关
+
+- [OpenRouter](https://openrouter.ai/) - 可以接入不同各种 AI 模型，方便对比不同模型的效果和价格
