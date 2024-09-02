@@ -23,6 +23,7 @@
 - Aerial：Apple TV 高清航拍屏保
 - YPlayer：一款可以本地实时生成字幕的视频播放器
 - screen.studio：支持放大细节的视频录制工具
+- ShortcutDective：检测快捷键被哪个 App 占用
 
 ## Node.js 相关
 
