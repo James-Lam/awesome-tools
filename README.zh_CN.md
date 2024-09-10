@@ -45,6 +45,7 @@
 
 - pagespy：像使用谷歌浏览器的控制台一样简单地开始远程调试，也可理解为支持远程 debug 的 vconsole。
 - plasmo：开发浏览器插件的框架
+- [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/) - 当设计师觉得原生的 border-dashed 间距已经不能满足需求时，可以使用这个工具生成自定义的虚线边框
 
 ## 编辑器
 

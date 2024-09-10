@@ -45,6 +45,7 @@ English | [中文](./README.zh_CN.md)
 
 - pagespy - Start remote debugging as easily as using the Google Chrome console, can also be understood as vconsole supporting remote debugging
 - plasmo - Framework for developing browser extensions
+- [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/) - When designers feel that the native border-dashed spacing no longer meets their needs, this tool can be used to generate custom dashed borders
 
 ## Editors
 
