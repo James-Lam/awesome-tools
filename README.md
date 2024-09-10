@@ -1,65 +1,68 @@
 # awesome-tools
 
-## Mac 软件
+English | [中文](./README.zh_CN.md)
 
-- i18n studio - 一款由 GPT4 驱动的用于多语言管理和本地化翻译的开发者工具 - https://www.i18n.studio/
-- Automa - 自动化浏览器任务 https://www.automa.site/
-- Paste：剪切板历史，可以查看剪切板历史，批量复制粘贴，历史搜索
-- Manico：快捷键，给应用设置快捷键，快速切换应用
-- Magnet：快捷调整窗口大小（三分之一、二分之一、四分之一、全屏）
-- 1password：管理密码，释放大脑内存，自动生成密码，每个密码不重样，跨平台
-- ClashX：梯子客户端（需自行购买代理服务器），人生苦短，我用 Google
-- Mos：Mac 上使用第三方鼠标滚动不流畅，这软件解决问题
-- Alfred（高级功能付费）：Mac 必备神器，解决工作流问题，比如显示隐藏文件夹、输入颜色查色值、搜索文档、搜 ip，只有你想不到没有做不到
-- Bartender：隐藏状态栏图标，屏幕小，状态栏太多图标时可以装这个软件隐藏起来，只显示有用的图标，比如微信、qq、钉钉等
-- IINA：开源全能视频播放器
-- The Unarchiver：Mac 解压缩工具
-- Xnip：强大的截图工具
-- utools：Spotlight + 小程序，丰富的小程序应用
-- AppCleaner：小巧的应用卸载工具
-- Downie：网页视频下载神器，按最高清画面下载视频
-- betterdisplay: 让你的 2k 显示器显示 hidpi
-- MonitorControl：便捷控制扩展显示器的亮度、音量。（betterdisplay 已集成它的功能）
-- Aerial：Apple TV 高清航拍屏保
-- YPlayer：一款可以本地实时生成字幕的视频播放器
-- screen.studio：支持放大细节的视频录制工具
-- ShortcutDective：检测快捷键被哪个 App 占用
+## Mac Software
 
-## Node.js 相关
+- [i18n studio](https://www.i18n.studio/) - A GPT4-powered developer tool for multilingual management and localization translation
+- [Automa](https://www.automa.site/) - Automate browser tasks
+- Paste - Clipboard history, view clipboard history, batch copy and paste, history search
+- Manico - Hotkeys, set shortcuts for applications, quickly switch between apps
+- Magnet - Quickly adjust window size (one-third, half, quarter, full screen)
+- 1password - Password manager, free up brain memory, automatically generate passwords, each password unique, cross-platform
+- ClashX - VPN client (requires purchasing proxy server separately), life is short, I use Google
+- Mos - Solves the issue of non-smooth scrolling when using third-party mice on Mac
+- Alfred - Essential Mac tool, solves workflow issues, e.g., show hidden folders, input color to get color value, search documents, search IP, if you can think of it, it can do it (advanced features paid)
+- Bartender - Hide status bar icons, useful when screen is small and status bar has too many icons, only show useful ones like WeChat, QQ, DingTalk, etc.
+- IINA - Open-source all-in-one video player
+- The Unarchiver - Mac decompression tool
+- Xnip - Powerful screenshot tool
+- utools - Spotlight + mini-programs, rich mini-program applications
+- AppCleaner - Compact application uninstaller
+- Downie - Web video download tool, downloads videos at highest quality
+- betterdisplay - Make your 2K monitor display HiDPI
+- MonitorControl - Conveniently control external monitor brightness and volume (betterdisplay has integrated this functionality)
+- Aerial - Apple TV high-definition aerial screensaver
+- YPlayer - A video player that can generate real-time subtitles locally
+- screen.studio - Video recording tool that supports zooming in on details
+- ShortcutDective - Detect which App is using a specific shortcut
 
-- npkill - 删除 node_modules
-- Knip - 在项目中查找未使用的文件、依赖项和导出项，并帮助你 “knip” 掉它们。
+## Node.js Related
 
-## 开发相关
+- npkill - Delete node_modules
+- Knip - Find unused files, dependencies, and exports in your project and help you "knip" them off
 
-- Dash：技术文档搜索神器，配合 Alfred，快速查询各大技术文档 api，再也不用耗时去 Google
-- SwitchHosts：便捷设置系统 Host
-- SnippetsLab：代码片段管理，相比笔记应用，它更轻便快捷
-- iTerm：比自带终端好用很多，配合 oh my zsh，可以定制主题、输入补全、git 别名等，通过插件可以扩展你的终端能力
-- Visual Studio Code：人类最强开发编辑器，多语言支持，丰富插件生态，除了开发，还能写文章、炒股、看小说
+## Development Related
 
-## 前端开发
+- Dash - Technical documentation search tool, works with Alfred, quickly query various technical documentation APIs, no more time-consuming Google searches
+- SwitchHosts - Convenient system Host settings
+- SnippetsLab - Code snippet management, more lightweight and quick compared to note-taking apps
+- iTerm - Much better than the built-in terminal, combined with oh my zsh, can customize themes, input completion, git aliases, etc., plugins can extend your terminal capabilities
+- Visual Studio Code - The most powerful human development editor, multi-language support, rich plugin ecosystem, besides development, can also write articles, trade stocks, read novels
+- Cursor - An AI-assisted programming tool that can quickly generate code, comments, documentation, etc.
 
-- pagespy：像使用谷歌浏览器的控制台一样简单地开始远程调试，也可理解为支持远程 debug 的 vconsole。
-- plasmo：开发浏览器插件的框架
+## Frontend Development
 
-## 编辑器
+- pagespy - Start remote debugging as easily as using the Google Chrome console, can also be understood as vconsole supporting remote debugging
+- plasmo - Framework for developing browser extensions
 
-- https://lexical.dev/ - 开源文本编辑器
-- https://www.tiny.cloud/ - 文本编辑器
-- https://milkdown.dev/ - 文本编辑器框架
-- https://quilljs.com/ - 文本编辑器
-- https://github.com/ianstormtaylor/slate - 开源文本编辑器
-- https://github.com/bytedance/bytemd - 字节开源的 markdown 编辑器
+## Editors
 
-## Chrome 插件
+- https://lexical.dev/ - Open-source text editor
+- https://www.tiny.cloud/ - Text editor
+- https://milkdown.dev/ - Text editor framework
+- https://quilljs.com/ - Text editor
+- https://github.com/ianstormtaylor/slate - Open-source text editor
+- https://github.com/bytedance/bytemd - Markdown editor open-sourced by ByteDance
+
+## Chrome Extensions
 
 todo...
 
-## VS Code 插件
+## VS Code Extensions
 
 todo...
 
-## AI 相关
+## AI Related
 
-- [OpenRouter](https://openrouter.ai/) - 可以接入不同各种 AI 模型，方便对比不同模型的效果和价格
+- [OpenRouter](https://openrouter.ai/) - Can integrate various AI models, convenient for comparing effects and prices of different models
