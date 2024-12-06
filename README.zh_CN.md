@@ -64,6 +64,14 @@ todo...
 
 todo...
 
+## 数据可视化
+
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - 一个全面的数据可视化目录，帮助你选择合适的数据可视化方式。提供了详细的图表分类、用途说明和实现方法。
+
 ## AI 相关
 
 - [OpenRouter](https://openrouter.ai/) - 可以接入不同各种 AI 模型，方便对比不同模型的效果和价格
+- [Bylo](https://bylo.ai/) - 免费的文本生成图片网站，可以通过文本描述生成各种风格的图片
+- [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - 一个开源的 Python 程序，使用 Diffusion 模式对黑白照片上色
+- [OnionAI](https://onionai.so/) - 该网站聚合多个 AI 搜索引擎入口，可以切换不同的搜索引擎进行搜索
+- [ChatGPT](https://chat.openai.com/) - OpenAI 开发的大型语言模型，可以用于对话、写作、编程等多种场景，是目前最受欢迎的 AI 助手之一

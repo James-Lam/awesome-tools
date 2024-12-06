@@ -64,6 +64,14 @@ todo...
 
 todo...
 
+## Data Visualization
+
+- [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - A comprehensive data visualization catalog helping you choose appropriate data visualization methods. Provides detailed chart classifications, usage instructions, and implementation methods.
+
 ## AI Related
 
 - [OpenRouter](https://openrouter.ai/) - Can integrate various AI models, convenient for comparing effects and prices of different models
+- [Bylo](https://bylo.ai/) - Free text-to-image generation website, can generate images in various styles through text descriptions
+- [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - An open-source Python program that uses Diffusion model to colorize black and white photos
+- [OnionAI](https://onionai.so/) - A website that aggregates multiple AI search engine entries, allowing you to switch between different search engines
+- [ChatGPT](https://chat.openai.com/) - A large language model developed by OpenAI, can be used for conversation, writing, programming, and many other scenarios, currently one of the most popular AI assistants
