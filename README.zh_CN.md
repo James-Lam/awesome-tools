@@ -75,3 +75,4 @@ todo...
 - [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - 一个开源的 Python 程序，使用 Diffusion 模式对黑白照片上色
 - [OnionAI](https://onionai.so/) - 该网站聚合多个 AI 搜索引擎入口，可以切换不同的搜索引擎进行搜索
 - [ChatGPT](https://chat.openai.com/) - OpenAI 开发的大型语言模型，可以用于对话、写作、编程等多种场景，是目前最受欢迎的 AI 助手之一
+- [GraphCast](https://github.com/google-deepmind/graphcast) - 谷歌 DeepMind 开发的 AI 天气预报模型，其性能超过传统天气预报系统。它使用图神经网络来预测未来 10 天的天气状况，比现有方法具有更高的准确性，同时速度显著更快（在超级计算机需要数小时的情况下，它只需不到 60 秒即可生成预报）。该模型在高分辨率全球网格上运行，可预测温度、风速、湿度等多个大气变量。
