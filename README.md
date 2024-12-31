@@ -46,7 +46,14 @@ English | [中文](./README.zh_CN.md)
 - pagespy - Start remote debugging as easily as using the Google Chrome console, can also be understood as vconsole supporting remote debugging
 - plasmo - Framework for developing browser extensions
 - [Dashed Border Generator](https://kovart.github.io/dashed-border-generator/) - When designers feel that the native border-dashed spacing no longer meets their needs, this tool can be used to generate custom dashed borders
-- [GSAP](https://gsap.com/) - Professional-grade JavaScript animation library that lets you animate anything JS can touch. Features silky-smooth performance and comprehensive tools for UI, SVG, text and scroll-based animations.
+- [GSAP](https://gsap.com/) - Professional-grade JavaScript animation library that lets you animate anything JS can touch. Features silky-smooth performance and comprehensive tools for UI, SVG, text and scroll-based animations
+- [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Web developer tools built directly into the Google Chrome browser
+- [Lighthouse](https://developer.chrome.com/docs/lighthouse/) - An open-source, automated tool to improve the quality of your web apps by auditing performance, accessibility, and SEO
+- [Chrome UX Report](https://developer.chrome.com/docs/crux/) - Discover how real-world Chrome users experience popular destinations on the web
+- [PageSpeed Insights](https://pagespeed.web.dev/) - Report and improve on a page's user experience for mobile and desktop, powered by Core Web Vitals metrics
+- [Workbox](https://developer.chrome.com/docs/workbox/) - Production-ready service worker libraries and tooling for building Progressive Web Apps
+- [ChromeDriver](https://chromedriver.chromium.org/) - An open source tool for automated testing of web apps across many browsers
+- [Puppeteer](https://pptr.dev/) - A Node library for high-level control of headless Chrome, over the DevTools Protocol
 
 ## Editors
 
