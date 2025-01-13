@@ -66,7 +66,8 @@ English | [中文](./README.zh_CN.md)
 
 ## Chrome Extensions
 
-todo...
+- Cursorful - Create beautiful browser recordings that keep the viewer engaged. Cursorful is a browser recorder that automatically adds zooms and pans. [Learn more](https://cursorful.com/)
+  todo...
 
 ## VS Code Extensions
 

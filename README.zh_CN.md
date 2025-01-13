@@ -30,7 +30,7 @@
 ## Node.js 相关
 
 - npkill - 删除 node_modules
-- Knip - 在项目中查找未使用的文件、依赖项和导出项，并帮助你 “knip” 掉它们。
+- Knip - 在项目中查找未使用的文件、依赖项和导出项，并帮助你 "knip" 掉它们。
 
 ## 开发相关
 
@@ -66,7 +66,8 @@
 
 ## Chrome 插件
 
-todo...
+- Cursorful - 创建美观的浏览器录屏，保持观众的参与度。Cursorful 是一个浏览器录屏工具，自动添加缩放和平移效果，适用于多种操作系统。[了解更多](https://cursorful.com/)
+  todo...
 
 ## VS Code 插件
 
