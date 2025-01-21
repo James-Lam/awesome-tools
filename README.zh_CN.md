@@ -83,6 +83,7 @@ todo...
 - [Bylo](https://bylo.ai/) - 免费的文本生成图片网站，可以通过文本描述生成各种风格的图片
 - [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - 一个开源的 Python 程序，使用 Diffusion 模式对黑白照片上色
 - [OnionAI](https://onionai.so/) - 该网站聚合多个 AI 搜索引擎入口，可以切换不同的搜索引擎进行搜索
+- [Warp](https://www.warp.dev/) - 一个用 Rust 构建的超快速现代终端，具有 AI 驱动的命令搜索和工作流建议功能。它包含实时命令 AI 辅助、命令历史搜索、内置 SSH 客户端、协作功能、可自定义主题和自动命令补全等特性。该终端还提供基于输入历史的 AI 驱动错误解释和命令建议。
 - [ChatGPT](https://chat.openai.com/) - OpenAI 开发的大型语言模型，可以用于对话、写作、编程等多种场景，是目前最受欢迎的 AI 助手之一
 - [Firecrawl](https://www.firecrawl.dev/) - 一个面向 AI 的网页爬虫服务，可将网站内容转换为 LLM 可用的 markdown 格式，让网页内容更易被 AI 模型和应用程序理解和处理
 - [GraphCast](https://github.com/google-deepmind/graphcast) - 谷歌 DeepMind 开发的 AI 天气预报模型，其性能超过传统天气预报系统。它使用图神经网络来预测未来 10 天的天气状况，比现有方法具有更高的准确性，同时速度显著更快（在超级计算机需要数小时的情况下，它只需不到 60 秒即可生成预报）。该模型在高分辨率全球网格上运行，可预测温度、风速、湿度等多个大气变量。
