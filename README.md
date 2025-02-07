@@ -77,6 +77,10 @@ todo...
 
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - A comprehensive data visualization catalog helping you choose appropriate data visualization methods. Provides detailed chart classifications, usage instructions, and implementation methods.
 
+## Monitoring Tools
+
+- [changedetection.io](https://changedetection.io/) - The best and simplest open-source tool for monitoring websites for changes. Features include customizable notifications (Discord, Email, Slack, etc.), visual selector tool, JSON/API monitoring, proxy support, and scheduled monitoring. Perfect for tracking price changes, restocks, PDF updates, and website modifications.
+
 ## AI Related
 
 - [OpenRouter](https://openrouter.ai/) - Can integrate various AI models, convenient for comparing effects and prices of different models
