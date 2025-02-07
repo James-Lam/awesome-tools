@@ -77,6 +77,10 @@ todo...
 
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - A comprehensive data visualization catalog helping you choose appropriate data visualization methods. Provides detailed chart classifications, usage instructions, and implementation methods.
 
+## Network Tools
+
+- [InternetSpeed.my](https://www.internetspeed.my/) - A simple and efficient online tool for testing your internet connection speed. Measures download speed, upload speed, ping, and jitter with a clean interface and support for multiple languages.
+
 ## Monitoring Tools
 
 - [changedetection.io](https://changedetection.io/) - The best and simplest open-source tool for monitoring websites for changes. Features include customizable notifications (Discord, Email, Slack, etc.), visual selector tool, JSON/API monitoring, proxy support, and scheduled monitoring. Perfect for tracking price changes, restocks, PDF updates, and website modifications.

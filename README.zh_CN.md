@@ -77,6 +77,10 @@ todo...
 
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - 一个全面的数据可视化目录，帮助你选择合适的数据可视化方式。提供了详细的图表分类、用途说明和实现方法。
 
+## 网络工具
+
+- [InternetSpeed.my](https://www.internetspeed.my/) - 一个简单高效的在线网速测试工具。可测量下载速度、上传速度、延迟和抖动，界面简洁，支持多语言。
+
 ## 监控工具
 
 - [changedetection.io](https://changedetection.io/) - 最好且最简单的开源网站变更监控工具。功能包括可自定义通知（Discord、Email、Slack 等）、可视化选择器、JSON/API 监控、代理支持和定时监控。适用于追踪价格变化、商品补货、PDF 更新和网站修改。
