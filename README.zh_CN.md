@@ -87,6 +87,7 @@ todo...
 
 ## AI 相关
 
+- [GenSFX](https://gensfx.com/) - 一个免费的 AI 音效生成器，可以通过文本描述即时生成高质量音效。适合内容创作者和开发者使用，能够通过简单的文本提示生成各种类型的声音，包括环境音、机械声、自然声等。
 - [OpenRouter](https://openrouter.ai/) - 可以接入不同各种 AI 模型，方便对比不同模型的效果和价格
 - [Bylo](https://bylo.ai/) - 免费的文本生成图片网站，可以通过文本描述生成各种风格的图片
 - [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - 一个开源的 Python 程序，使用 Diffusion 模式对黑白照片上色

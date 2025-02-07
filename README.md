@@ -87,6 +87,7 @@ todo...
 
 ## AI Related
 
+- [GenSFX](https://gensfx.com/) - A free AI sound effect generator that converts text descriptions into high-quality sound effects instantly. Perfect for content creators and developers, it can generate various types of sounds including ambient, mechanical, nature sounds and more with simple text prompts.
 - [OpenRouter](https://openrouter.ai/) - Can integrate various AI models, convenient for comparing effects and prices of different models
 - [Bylo](https://bylo.ai/) - Free text-to-image generation website, can generate images in various styles through text descriptions
 - [Color-diffusion](https://github.com/ErwannMillon/Color-diffusion) - An open-source Python program that uses Diffusion model to colorize black and white photos
