@@ -80,6 +80,7 @@ todo...
 ## 网络工具
 
 - [InternetSpeed.my](https://www.internetspeed.my/) - 一个简单高效的在线网速测试工具。可测量下载速度、上传速度、延迟和抖动，界面简洁，支持多语言。
+- [WHOIS](https://whois.domaintools.com/) - 一个全面的域名查询工具，用于查看域名注册详情、所有权信息、DNS 记录和域名历史。对域名研究和网络管理必不可少。
 
 ## 监控工具
 

@@ -80,6 +80,7 @@ todo...
 ## Network Tools
 
 - [InternetSpeed.my](https://www.internetspeed.my/) - A simple and efficient online tool for testing your internet connection speed. Measures download speed, upload speed, ping, and jitter with a clean interface and support for multiple languages.
+- [WHOIS](https://whois.domaintools.com/) - A comprehensive domain lookup tool for checking domain registration details, ownership information, DNS records, and domain history. Essential for domain research and network administration.
 
 ## Monitoring Tools
 
