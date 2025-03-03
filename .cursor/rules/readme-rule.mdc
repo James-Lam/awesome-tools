@@ -1,0 +1,45 @@
+---
+description: This document outlines the consistency requirements for the README files in the awesome-tools repository.
+globs: 
+alwaysApply: false
+---
+
+
+## Files Covered
+- @README.md
+- @README.zh_CN.md
+
+## Consistency Requirements
+
+### Structure Consistency
+- Both README files must have the same number of sections (marked by `##` headings)
+- Both README files must have the same number of list items (marked by `-`)
+- Both README files must have the same code blocks
+
+### Content Consistency
+- Both README files must have the same links
+- Both README files must have the same URLs
+- Both README files must reference the same image files
+- All images must have alt text for accessibility
+
+### Update Synchronization
+- If one README file is modified, the other should be updated within 24 hours
+- This ensures that information is consistent across language versions
+
+### Image Guidelines
+- Use the same images in both language versions
+- Provide descriptive alt text for all images
+- Maintain consistent image dimensions across versions
+- Place images in the same relative positions in both documents
+
+## Best Practices
+
+1. When adding new content, update both files simultaneously
+2. Use the same formatting and structure in both language versions
+3. Ensure translations maintain the same meaning and technical accuracy
+4. Keep section ordering identical between versions
+5. Verify all links work in both versions
+
+## Validation
+
+The repository uses Cursor rules to automatically validate these consistency requirements. If you make changes to either README file, ensure that you maintain consistency according to these guidelines to pass validation checks.
