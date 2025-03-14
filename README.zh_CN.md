@@ -86,6 +86,10 @@ todo...
 
 - [changedetection.io](https://changedetection.io/) - 最好且最简单的开源网站变更监控工具。功能包括可自定义通知（Discord、Email、Slack 等）、可视化选择器、JSON/API 监控、代理支持和定时监控。适用于追踪价格变化、商品补货、PDF 更新和网站修改。
 
+## 资源目录
+
+- [OpenAlternative](https://openalternative.co/) - 精选的开源替代品集合，用于替代流行的专有软件。帮助用户找到高质量的开源工具，按类别组织，并提供有关星标数、分叉数和最近活动的详细信息。
+
 ## AI 相关
 
 - [GenSFX](https://gensfx.com/) - 一个免费的 AI 音效生成器，可以通过文本描述即时生成高质量音效。适合内容创作者和开发者使用，能够通过简单的文本提示生成各种类型的声音，包括环境音、机械声、自然声等。

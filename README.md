@@ -86,6 +86,10 @@ todo...
 
 - [changedetection.io](https://changedetection.io/) - The best and simplest open-source tool for monitoring websites for changes. Features include customizable notifications (Discord, Email, Slack, etc.), visual selector tool, JSON/API monitoring, proxy support, and scheduled monitoring. Perfect for tracking price changes, restocks, PDF updates, and website modifications.
 
+## Resource Directories
+
+- [OpenAlternative](https://openalternative.co/) - A curated collection of open-source alternatives to popular proprietary software. Helps users find high-quality open-source tools organized by categories, with detailed information about stars, forks, and recent activity.
+
 ## AI Related
 
 - [GenSFX](https://gensfx.com/) - A free AI sound effect generator that converts text descriptions into high-quality sound effects instantly. Perfect for content creators and developers, it can generate various types of sounds including ambient, mechanical, nature sounds and more with simple text prompts.
