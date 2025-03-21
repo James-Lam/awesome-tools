@@ -107,6 +107,7 @@ todo...
 - [Vidu](https://www.vidu.com/) - A leading AI video generation platform that can create videos from reference images, static images, or text descriptions. Features include ultra-fast generation (10 seconds), powerful semantic understanding, and realistic large-scale movements. Particularly strong at maintaining character consistency and handling complex actions.
 - [Midscene.js](https://midscenejs.com/) - An AI-powered automation tool that allows interaction with web UIs using natural language. Features include executing actions, extracting data, and performing assertions through simple prompts. Supports integration with Playwright and Puppeteer, and works with both general-purpose LLMs and open-source models.
 - [Browser Use](https://browser-use.com/) - A tool that makes websites accessible for AI agents by extracting interactive elements. Features include vision + HTML extraction, multi-tab management, element tracking, and support for various LLMs including GPT-4, Claude 3, and Llama 2. Available as both open-source and cloud versions.
+- [BrowserTools](https://browsertools.agentdesk.ai/) - A powerful tool that embeds AI code editors and agents directly into your web browser. It enables AI assistants to monitor console logs, network requests, take screenshots, interact with DOM elements, and run performance audits. Features include debugger mode for bug fixing, audit mode for comprehensive web app analysis, and seamless integration with MCP-enabled editors like Cursor.
 
 ## Writing Tools
 
