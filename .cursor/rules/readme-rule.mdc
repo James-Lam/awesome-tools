@@ -1,7 +1,7 @@
 ---
-description: This document outlines the consistency requirements for the README files in the awesome-tools repository.
+description: 
 globs: 
-alwaysApply: false
+alwaysApply: true
 ---
 
 

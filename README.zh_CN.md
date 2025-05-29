@@ -108,6 +108,7 @@ todo...
 - [Midscene.js](https://midscenejs.com/) - 一个 AI 驱动的自动化工具，允许使用自然语言与网页界面交互。功能包括执行操作、提取数据和通过简单提示执行断言。支持与 Playwright 和 Puppeteer 集成，可与通用 LLM 和开源模型一起使用。
 - [Browser Use](https://browser-use.com/) - 一个使网站对 AI 代理可访问的工具，通过提取交互元素。功能包括视觉 + HTML 提取、多标签页管理、元素跟踪，并支持各种 LLM，包括 GPT-4、Claude 3 和 Llama 2。提供开源和云端版本。
 - [BrowserTools](https://browsertools.agentdesk.ai/) - 一个强大的工具，可将 AI 代码编辑器和代理直接嵌入到您的网络浏览器中。它使 AI 助手能够监控控制台日志、网络请求、截取屏幕截图、与 DOM 元素交互以及运行性能审计。功能包括用于修复错误的调试器模式、用于全面网络应用分析的审计模式，以及与支持 MCP 的编辑器（如 Cursor）的无缝集成。
+- [DeepWiki](https://deepwiki.org/) - 一个为每个 GitHub 仓库提供可对话的最新文档的工具。可以将其视为 GitHub 的深度研究工具，允许你通过自然对话来理解和探索任何仓库。
 
 ## 写作工具
 
