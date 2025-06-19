@@ -26,6 +26,7 @@ English | [中文](./README.zh_CN.md)
 - YPlayer - A video player that can generate real-time subtitles locally
 - screen.studio - Video recording tool that supports zooming in on details
 - ShortcutDective - Detect which App is using a specific shortcut
+- [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer for macOS that displays your keystrokes during screencasts, presentations, or collaborations. It can show command keys, modified keys, or all keystrokes, and includes an option to display mouse clicks. Installation available via Homebrew: `brew install --cask keycastr`.
 
 ## Node.js Related
 
