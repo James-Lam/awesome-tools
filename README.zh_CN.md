@@ -27,6 +27,7 @@
 - screen.studio - 支持放大细节的视频录制工具
 - ShortcutDective - 检测快捷键被哪个 App 占用
 - [KeyCastr](https://github.com/keycastr/keycastr) - 一个开源的按键可视化工具，可在录屏、演示或协作时显示你的按键操作。它可以显示命令键、修改键或所有按键，并包含显示鼠标点击的选项。可通过 Homebrew 安装：`brew install --cask keycastr`。
+- [Gifski](https://github.com/sindresorhus/Gifski) - 在 Mac 上将视频转换为高质量 GIF 动画。这款 macOS 应用使用先进技术创建流畅、色彩丰富的 GIF 动画，每帧可支持数千种颜色。功能包括自定义尺寸、速度、帧率、质量设置、弹跳（悠悠球）播放，以及支持 macOS 支持的所有视频格式。可在 App Store 获取，包含共享扩展和系统服务集成。
 
 ## Node.js 相关
 

@@ -27,6 +27,7 @@ English | [中文](./README.zh_CN.md)
 - screen.studio - Video recording tool that supports zooming in on details
 - ShortcutDective - Detect which App is using a specific shortcut
 - [KeyCastr](https://github.com/keycastr/keycastr) - An open-source keystroke visualizer for macOS that displays your keystrokes during screencasts, presentations, or collaborations. It can show command keys, modified keys, or all keystrokes, and includes an option to display mouse clicks. Installation available via Homebrew: `brew install --cask keycastr`.
+- [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac. This macOS app uses advanced techniques to create smooth, colorful GIF animations with thousands of colors per frame. Features include customizable dimensions, speed, frame rate, quality settings, bounce (yo-yo) playback, and support for all video formats that macOS supports. Available on the App Store and includes share extension and system service integration.
 
 ## Node.js Related
 
