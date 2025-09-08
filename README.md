@@ -80,6 +80,10 @@ todo...
 
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - A comprehensive data visualization catalog helping you choose appropriate data visualization methods. Provides detailed chart classifications, usage instructions, and implementation methods.
 
+## Screenshot Tools
+
+- [Website Screenshot Online](https://websitescreenshot.online/) - Free online tool to capture website screenshots and record scrolling videos. Features full-page screenshots up to 20,000 pixels, multiple output formats (PNG, JPEG, PDF), device simulation, automatic cookie popup handling, ad blocking, and privacy-first approach with no data storage.
+
 ## Network Tools
 
 - [InternetSpeed.my](https://www.internetspeed.my/) - A simple and efficient online tool for testing your internet connection speed. Measures download speed, upload speed, ping, and jitter with a clean interface and support for multiple languages.

@@ -80,6 +80,10 @@ todo...
 
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/search.html) - 一个全面的数据可视化目录，帮助你选择合适的数据可视化方式。提供了详细的图表分类、用途说明和实现方法。
 
+## 截图工具
+
+- [Website Screenshot Online](https://websitescreenshot.online/) - 免费的在线网站截图和滚动视频录制工具。功能包括高达 20,000 像素的全页面截图、多种输出格式（PNG、JPEG、PDF）、设备模拟、自动 Cookie 弹窗处理、广告拦截，以及隐私优先的无数据存储方式。
+
 ## 网络工具
 
 - [InternetSpeed.my](https://www.internetspeed.my/) - 一个简单高效的在线网速测试工具。可测量下载速度、上传速度、延迟和抖动，界面简洁，支持多语言。
