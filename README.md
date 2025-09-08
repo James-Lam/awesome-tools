@@ -93,6 +93,7 @@ todo...
 
 - [OpenAlternative](https://openalternative.co/) - A curated collection of open-source alternatives to popular proprietary software. Helps users find high-quality open-source tools organized by categories, with detailed information about stars, forks, and recent activity.
 - [Product Hunt Daily](https://product-daily.haha.ai/) - Daily updates on trending products from Product Hunt. Discover the hottest new products, tools, and innovations with detailed descriptions, voting data, and launch information. Perfect for staying updated with the latest tech trends and product launches.
+- [Awesome Mac](https://wangchujiang.com/awesome-mac/) - A comprehensive curated list of awesome macOS software organized into various categories. Features text editors, office tools, developer utilities, design tools, productivity apps, and more. Each entry includes detailed descriptions, licensing information, and direct links to help you discover the best Mac applications for your needs.
 
 ## AI Related
 
