@@ -1,36 +1,47 @@
 ---
-description: 
-globs: 
+description:
+globs:
 alwaysApply: true
 ---
 
-
 ## Files Covered
+
 - @README.md
 - @README.zh_CN.md
 
 ## Consistency Requirements
 
 ### Structure Consistency
+
 - Both README files must have the same number of sections (marked by `##` headings)
 - Both README files must have the same number of list items (marked by `-`)
 - Both README files must have the same code blocks
 
 ### Content Consistency
+
 - Both README files must have the same links
 - Both README files must have the same URLs
 - Both README files must reference the same image files
 - All images must have alt text for accessibility
 
 ### Update Synchronization
+
 - If one README file is modified, the other should be updated within 24 hours
 - This ensures that information is consistent across language versions
 
 ### Image Guidelines
+
 - Use the same images in both language versions
 - Provide descriptive alt text for all images
 - Maintain consistent image dimensions across versions
 - Place images in the same relative positions in both documents
+
+### Category Guidelines
+
+- When adding a new tool, first check if it fits an existing category in both README files.
+- If no existing category is appropriate for the new tool, create a new category section (with a `##` heading) in both README files.
+- Ensure that any new category is added in the same position and with the same structure in both language versions.
+- When creating a new category, provide a clear and descriptive section title, and ensure translations are accurate and consistent.
 
 ## Best Practices
 
@@ -42,4 +53,6 @@ alwaysApply: true
 
 ## Validation
 
-The repository uses Cursor rules to automatically validate these consistency requirements. If you make changes to either README file, ensure that you maintain consistency according to these guidelines to pass validation checks.
+// The following comment explains the validation process:
+// The repository uses Cursor rules to automatically validate these consistency requirements.
+// If you make changes to either README file, ensure that you maintain consistency according to these guidelines to pass validation checks.

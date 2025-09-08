@@ -91,6 +91,7 @@ todo...
 ## Resource Directories
 
 - [OpenAlternative](https://openalternative.co/) - A curated collection of open-source alternatives to popular proprietary software. Helps users find high-quality open-source tools organized by categories, with detailed information about stars, forks, and recent activity.
+- [Product Hunt Daily](https://product-daily.haha.ai/) - Daily updates on trending products from Product Hunt. Discover the hottest new products, tools, and innovations with detailed descriptions, voting data, and launch information. Perfect for staying updated with the latest tech trends and product launches.
 
 ## AI Related
 

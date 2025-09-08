@@ -91,6 +91,7 @@ todo...
 ## 资源目录
 
 - [OpenAlternative](https://openalternative.co/) - 精选的开源替代品集合，用于替代流行的专有软件。帮助用户找到高质量的开源工具，按类别组织，并提供有关星标数、分叉数和最近活动的详细信息。
+- [Product Hunt 日报](https://product-daily.haha.ai/) - Product Hunt 热门产品的每日更新。发现最热门的新产品、工具和创新，包含详细描述、投票数据和发布信息。是了解最新科技趋势和产品发布的完美工具。
 
 ## AI 相关
 
