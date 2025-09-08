@@ -82,6 +82,7 @@ todo...
 
 ## 截图工具
 
+- [CleanShot](https://cleanshot.com/) - 专业的 Mac 截图和屏幕录制工具，具有高级功能。包括智能注释、滚动截图、带音频的屏幕录制、云存储集成和美观的界面。非常适合需要专业质量截图和录制的设计师、开发者和内容创作者。
 - [Website Screenshot Online](https://websitescreenshot.online/) - 免费的在线网站截图和滚动视频录制工具。功能包括高达 20,000 像素的全页面截图、多种输出格式（PNG、JPEG、PDF）、设备模拟、自动 Cookie 弹窗处理、广告拦截，以及隐私优先的无数据存储方式。
 
 ## 网络工具

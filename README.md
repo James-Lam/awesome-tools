@@ -82,6 +82,7 @@ todo...
 
 ## Screenshot Tools
 
+- [CleanShot](https://cleanshot.com/) - Premium Mac screenshot and screen recording tool with advanced features. Includes smart annotations, scrolling screenshots, screen recording with audio, cloud storage integration, and beautiful interface. Perfect for designers, developers, and content creators who need professional-quality screenshots and recordings.
 - [Website Screenshot Online](https://websitescreenshot.online/) - Free online tool to capture website screenshots and record scrolling videos. Features full-page screenshots up to 20,000 pixels, multiple output formats (PNG, JPEG, PDF), device simulation, automatic cookie popup handling, ad blocking, and privacy-first approach with no data storage.
 
 ## Network Tools
