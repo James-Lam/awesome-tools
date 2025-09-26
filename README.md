@@ -70,6 +70,7 @@ English | [中文](./README.zh_CN.md)
 ## Chrome Extensions
 
 - Cursorful - Create beautiful browser recordings that keep the viewer engaged. Cursorful is a browser recorder that automatically adds zooms and pans. [Learn more](https://cursorful.com/)
+- [Immersive Translate](https://immersivetranslate.com/zh-Hans/) - A comprehensive AI translation tool that provides bilingual web translation, PDF translation (preserving layout), video subtitle translation, and real-time meeting translation. Features 20+ AI translation engines including ChatGPT, DeepL, Deepseek, and Gemini, supporting 100+ languages. Available as browser extensions for Chrome, Edge, Safari, and mobile apps for iOS/Android.
   todo...
 
 ## VS Code Extensions

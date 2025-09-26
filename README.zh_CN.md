@@ -70,6 +70,7 @@
 ## Chrome 插件
 
 - Cursorful - 创建美观的浏览器录屏，保持观众的参与度。Cursorful 是一个浏览器录屏工具，自动添加缩放和平移效果，适用于多种操作系统。[了解更多](https://cursorful.com/)
+- [沉浸式翻译](https://immersivetranslate.com/zh-Hans/) - 一款综合性的 AI 翻译工具，提供双语网页翻译、PDF 翻译（保留排版）、视频字幕翻译和实时会议翻译功能。内置 ChatGPT、DeepL、Deepseek、Gemini 等 20+ 顶尖 AI 翻译引擎，支持 100+ 语言互译。提供 Chrome、Edge、Safari 浏览器扩展和 iOS/Android 移动应用。
   todo...
 
 ## VS Code 插件
