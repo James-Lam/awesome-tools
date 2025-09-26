@@ -43,6 +43,7 @@ English | [中文](./README.zh_CN.md)
 - iTerm - Much better than the built-in terminal, combined with oh my zsh, can customize themes, input completion, git aliases, etc., plugins can extend your terminal capabilities
 - Visual Studio Code - The most powerful human development editor, multi-language support, rich plugin ecosystem, besides development, can also write articles, trade stocks, read novels
 - Cursor - An AI-assisted programming tool that can quickly generate code, comments, documentation, etc.
+- [Datasette](https://datasette.io/) - A tool for exploring and publishing data that helps people take data of any shape, analyze and explore it, and publish it as an interactive website and accompanying API. Aimed at data journalists, researchers, scientists, and anyone who wants to share structured data. Features include exploratory data analysis, instant data publishing, rapid prototyping with JSON APIs, and a rich ecosystem of 44 tools and 154 plugins.
 
 ## Frontend Development
 
