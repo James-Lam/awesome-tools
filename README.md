@@ -121,6 +121,7 @@ todo...
 - [Browser Use](https://browser-use.com/) - A tool that makes websites accessible for AI agents by extracting interactive elements. Features include vision + HTML extraction, multi-tab management, element tracking, and support for various LLMs including GPT-4, Claude 3, and Llama 2. Available as both open-source and cloud versions.
 - [BrowserTools](https://browsertools.agentdesk.ai/) - A powerful tool that embeds AI code editors and agents directly into your web browser. It enables AI assistants to monitor console logs, network requests, take screenshots, interact with DOM elements, and run performance audits. Features include debugger mode for bug fixing, audit mode for comprehensive web app analysis, and seamless integration with MCP-enabled editors like Cursor.
 - [DeepWiki](https://deepwiki.org/) - A tool that provides up-to-date documentation you can talk to for every GitHub repository. Think of it as Deep Research for GitHub, allowing you to understand and explore any repository through natural conversation.
+- [PDF to Video AI](https://pdftovideo.ai/) - An AI-powered online tool that converts PDF documents into professional, engaging explainer videos. Automatically analyzes PDF content and creates smooth videos with animations and narration. Features include no sign-up required, free online conversion, customizable output with voiceovers and timing, and professional quality results. Perfect for teachers, business professionals, marketers, students, and content creators.
 
 ## Writing Tools
 
