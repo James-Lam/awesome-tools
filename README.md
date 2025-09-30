@@ -58,6 +58,7 @@ English | [中文](./README.zh_CN.md)
 - [Workbox](https://developer.chrome.com/docs/workbox/) - Production-ready service worker libraries and tooling for building Progressive Web Apps
 - [ChromeDriver](https://chromedriver.chromium.org/) - An open source tool for automated testing of web apps across many browsers
 - [Puppeteer](https://pptr.dev/) - A Node library for high-level control of headless Chrome, over the DevTools Protocol
+- [Excalidraw](https://excalidraw.com/) - A free and open-source virtual whiteboard for creating hand-drawn-style diagrams, wireframes, and more. Features infinite canvas, real-time collaboration with end-to-end encryption, and various drawing tools. Perfect for UI/UX wireframing, brainstorming, and collaborative design sessions.
 
 ## Editors
 

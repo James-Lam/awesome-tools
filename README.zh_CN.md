@@ -58,6 +58,7 @@
 - [Workbox](https://developer.chrome.com/docs/workbox/) - 用于构建 Progressive Web Apps 的生产就绪的 Service Worker 库和工具
 - [ChromeDriver](https://chromedriver.chromium.org/) - 一个用于跨浏览器 Web 应用自动化测试的开源工具
 - [Puppeteer](https://pptr.dev/) - 一个通过 DevTools 协议控制无头 Chrome 的 Node 库，提供高级 API
+- [Excalidraw](https://excalidraw.com/) - 一个免费开源的虚拟白板，用于创建手绘风格的图表、线框图等。具有无限画布、端到端加密的实时协作功能和各种绘图工具。非常适合 UI/UX 线框图设计、头脑风暴和协作设计会议。
 
 ## 编辑器
 
