@@ -59,6 +59,7 @@
 - [ChromeDriver](https://chromedriver.chromium.org/) - 一个用于跨浏览器 Web 应用自动化测试的开源工具
 - [Puppeteer](https://pptr.dev/) - 一个通过 DevTools 协议控制无头 Chrome 的 Node 库，提供高级 API
 - [Excalidraw](https://excalidraw.com/) - 一个免费开源的虚拟白板，用于创建手绘风格的图表、线框图等。具有无限画布、端到端加密的实时协作功能和各种绘图工具。非常适合 UI/UX 线框图设计、头脑风暴和协作设计会议。
+- [Kibo UI](https://www.kibo-ui.com/docs) - 基于 shadcn/ui 构建的组件库和自定义注册表。为 React 应用提供预构建组件，如表格、文件拖放区和 AI 聊天原语。具有完全可组合和可访问的组件，具有真实功能，专为现代前端技术栈（React、Next.js、Tailwind CSS）设计。
 
 ## 编辑器
 
