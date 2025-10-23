@@ -124,6 +124,7 @@ todo...
 - [BrowserTools](https://browsertools.agentdesk.ai/) - 一个强大的工具，可将 AI 代码编辑器和代理直接嵌入到您的网络浏览器中。它使 AI 助手能够监控控制台日志、网络请求、截取屏幕截图、与 DOM 元素交互以及运行性能审计。功能包括用于修复错误的调试器模式、用于全面网络应用分析的审计模式，以及与支持 MCP 的编辑器（如 Cursor）的无缝集成。
 - [DeepWiki](https://deepwiki.org/) - 一个为每个 GitHub 仓库提供可对话的最新文档的工具。可以将其视为 GitHub 的深度研究工具，允许你通过自然对话来理解和探索任何仓库。
 - [PDF to Video AI](https://pdftovideo.ai/) - 一个 AI 驱动的在线工具，可将 PDF 文档转换为专业、引人入胜的解释视频。自动分析 PDF 内容并创建带有动画和旁白的流畅视频。功能包括无需注册、免费在线转换、可自定义输出（包括旁白和时长）以及专业质量的结果。非常适合教师、商务专业人士、营销人员、学生和内容创作者。
+- [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - 一个强大、轻量级的 OCR 工具包，连接图像/PDF 和 LLM 之间的桥梁。将任何 PDF 或图像文档转换为结构化数据供 AI 使用。支持 100+ 种语言，具有高精度文本识别、文档布局分析、表格识别和关键信息提取功能。特性包括 PP-OCRv5 文本识别、PP-StructureV3 文档解析和 PP-ChatOCRv4 智能文档理解。
 
 ## 写作工具
 
