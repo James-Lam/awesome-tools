@@ -88,6 +88,7 @@ todo...
 
 - [CleanShot](https://cleanshot.com/) - Premium Mac screenshot and screen recording tool with advanced features. Includes smart annotations, scrolling screenshots, screen recording with audio, cloud storage integration, and beautiful interface. Perfect for designers, developers, and content creators who need professional-quality screenshots and recordings.
 - [Website Screenshot Online](https://websitescreenshot.online/) - Free online tool to capture website screenshots and record scrolling videos. Features full-page screenshots up to 20,000 pixels, multiple output formats (PNG, JPEG, PDF), device simulation, automatic cookie popup handling, ad blocking, and privacy-first approach with no data storage.
+- [Launch Shots](https://www.launchshots.com/) - The most versatile screenshot editor for creating stunning, professional visuals for your app listings in seconds. Features hundreds of professionally designed templates (original & community), powerful layer management, shadows, backgrounds, device frames, AI localization (100+ languages), high-quality exports for App Store and Play Store, dedicated apps page, and weekly template updates. Free to use with 3 credits per month, all features included.
 
 ## Network Tools
 
